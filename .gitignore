@@ -34,3 +34,7 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 .DS_Store
+
+# Go binaries
+bin/
+*.exe
