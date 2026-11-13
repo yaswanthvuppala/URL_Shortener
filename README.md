@@ -6,6 +6,12 @@ This service maps long URLs to short, unique base62 codes, serves ultra-low-late
 
 ---
 
+## 🚀 Live Demo
+
+- **Live Application**: [https://url-shortner-lov1.onrender.com/](https://url-shortner-lov1.onrender.com/)
+
+---
+
 ## Architecture & Design Highlights
 
 - **Pure Go Standard Library Router (`net/http`)**:
